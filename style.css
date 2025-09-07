@@ -36,6 +36,10 @@ body{
 
     background-size: cover;
 
+    background-image: url("manhattan.webp");
+    background-size: cover;
+    background-position: top;
+
 }
 
 
@@ -158,3 +162,7 @@ h1{
     background: yellow;
     font-size: 60PX;
 }
+
+      
+  
+
